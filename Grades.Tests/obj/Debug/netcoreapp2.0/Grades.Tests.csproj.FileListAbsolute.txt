@@ -1,0 +1,17 @@
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\Grades.Tests.deps.json
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\Grades.Tests.runtimeconfig.json
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\Grades.Tests.runtimeconfig.dev.json
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\Grades.Tests.dll
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\Grades.Tests.pdb
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\Grades.dll
+D:\Projects\CSharpFundamentals\Grades.Tests\bin\Debug\netcoreapp2.0\Grades.pdb
+D:\Projects\CSharpFundamentals\Grades.Tests\obj\Debug\netcoreapp2.0\Grades.Tests.csprojAssemblyReference.cache
+D:\Projects\CSharpFundamentals\Grades.Tests\obj\Debug\netcoreapp2.0\Grades.Tests.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpFundamentals\Grades.Tests\obj\Debug\netcoreapp2.0\Grades.Tests.AssemblyInfoInputs.cache
+D:\Projects\CSharpFundamentals\Grades.Tests\obj\Debug\netcoreapp2.0\Grades.Tests.AssemblyInfo.cs
+D:\Projects\CSharpFundamentals\Grades.Tests\obj\Debug\netcoreapp2.0\Grades.Tests.csproj.CopyComplete
+D:\Projects\CSharpFundamentals\Grades.Tests\obj\Debug\netcoreapp2.0\Grades.Tests.dll
+D:\Projects\CSharpFundamentals\Grades.Tests\obj\Debug\netcoreapp2.0\Grades.Tests.pdb

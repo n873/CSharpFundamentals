@@ -1,0 +1,11 @@
+D:\Projects\CSharpFundamentals\Grades\bin\Debug\netcoreapp2.0\Grades.deps.json
+D:\Projects\CSharpFundamentals\Grades\bin\Debug\netcoreapp2.0\Grades.runtimeconfig.json
+D:\Projects\CSharpFundamentals\Grades\bin\Debug\netcoreapp2.0\Grades.runtimeconfig.dev.json
+D:\Projects\CSharpFundamentals\Grades\bin\Debug\netcoreapp2.0\Grades.dll
+D:\Projects\CSharpFundamentals\Grades\bin\Debug\netcoreapp2.0\Grades.pdb
+D:\Projects\CSharpFundamentals\Grades\obj\Debug\netcoreapp2.0\Grades.csprojAssemblyReference.cache
+D:\Projects\CSharpFundamentals\Grades\obj\Debug\netcoreapp2.0\Grades.csproj.CoreCompileInputs.cache
+D:\Projects\CSharpFundamentals\Grades\obj\Debug\netcoreapp2.0\Grades.AssemblyInfoInputs.cache
+D:\Projects\CSharpFundamentals\Grades\obj\Debug\netcoreapp2.0\Grades.AssemblyInfo.cs
+D:\Projects\CSharpFundamentals\Grades\obj\Debug\netcoreapp2.0\Grades.dll
+D:\Projects\CSharpFundamentals\Grades\obj\Debug\netcoreapp2.0\Grades.pdb
