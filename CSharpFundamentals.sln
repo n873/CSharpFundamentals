@@ -7,26 +7,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grades", "Grades\Grades.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Grades.Tests", "Grades.Tests\Grades.Tests.csproj", "{2E6D252F-35A0-4B1F-9170-40B680C18E70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceVsValue", "ReferenceVsValue\ReferenceVsValue.csproj", "{9062D562-DC24-4B9C-8ABF-13E836B2C005}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceVsValue", "ReferenceVsValue\ReferenceVsValue.csproj", "{9062D562-DC24-4B9C-8ABF-13E836B2C005}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{6D0B8C8E-FCE2-4359-8FE7-FB37CB7D1895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interface", "Interface\Interface.csproj", "{6D0B8C8E-FCE2-4359-8FE7-FB37CB7D1895}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "Abstract\Abstract.csproj", "{89DE3385-2D69-4A73-8BB5-EA56DD3B7D2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Abstract", "Abstract\Abstract.csproj", "{89DE3385-2D69-4A73-8BB5-EA56DD3B7D2B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project", "Project", "{422D3DA1-F263-4E5D-AB31-CFECBB348520}"
 	ProjectSection(SolutionItems) = preProject
 		RequirementSpecification.txt = RequirementSpecification.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static", "Static\Static.csproj", "{A603B14A-F665-44A0-A2EB-8CB6D5011BEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Static", "Static\Static.csproj", "{A603B14A-F665-44A0-A2EB-8CB6D5011BEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{514BDCC7-D5CF-41BC-9813-8A22287FC29B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{514BDCC7-D5CF-41BC-9813-8A22287FC29B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{3A137A1C-C2CB-4FEC-84EC-04F733A37C42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Polymorphism", "Polymorphism\Polymorphism.csproj", "{3A137A1C-C2CB-4FEC-84EC-04F733A37C42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{A2C7914F-FDFD-4851-99F7-EAAEDF88B169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{A2C7914F-FDFD-4851-99F7-EAAEDF88B169}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{096AB044-5F2B-462A-94AB-C4B46877DAEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{096AB044-5F2B-462A-94AB-C4B46877DAEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Projet.Pizza", "Projet.Pizza", "{106D4E1F-8DEA-49FD-B4B6-D87BE9EA4E96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pizza", "Pizza\Pizza.csproj", "{07164340-E20D-4B48-A542-F91B28E8A96C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project.Newsfeed", "Project.Newsfeed", "{E53B0D4E-A955-4FB0-AB10-8C8E7D24BC63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Project.Grades", "Project.Grades", "{AAE318F9-1E7D-40A8-8C46-C396848410E8}"
+	ProjectSection(SolutionItems) = preProject
+		RequirementSpecification.txt = RequirementSpecification.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsFeed", "NewsFeed\NewsFeed.csproj", "{D10FEBA1-39FC-4F14-BB83-67D594162147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Equality", "Equality\Equality.csproj", "{F67F549E-96AD-44A2-A3DC-53EA70D66930}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,13 +89,30 @@ Global
 		{096AB044-5F2B-462A-94AB-C4B46877DAEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{096AB044-5F2B-462A-94AB-C4B46877DAEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{096AB044-5F2B-462A-94AB-C4B46877DAEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07164340-E20D-4B48-A542-F91B28E8A96C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07164340-E20D-4B48-A542-F91B28E8A96C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07164340-E20D-4B48-A542-F91B28E8A96C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07164340-E20D-4B48-A542-F91B28E8A96C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D10FEBA1-39FC-4F14-BB83-67D594162147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D10FEBA1-39FC-4F14-BB83-67D594162147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D10FEBA1-39FC-4F14-BB83-67D594162147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D10FEBA1-39FC-4F14-BB83-67D594162147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67F549E-96AD-44A2-A3DC-53EA70D66930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67F549E-96AD-44A2-A3DC-53EA70D66930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67F549E-96AD-44A2-A3DC-53EA70D66930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67F549E-96AD-44A2-A3DC-53EA70D66930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{B6CDC407-5F39-4DC5-9109-A497FE59807A} = {422D3DA1-F263-4E5D-AB31-CFECBB348520}
-		{2E6D252F-35A0-4B1F-9170-40B680C18E70} = {422D3DA1-F263-4E5D-AB31-CFECBB348520}
+		{B6CDC407-5F39-4DC5-9109-A497FE59807A} = {AAE318F9-1E7D-40A8-8C46-C396848410E8}
+		{2E6D252F-35A0-4B1F-9170-40B680C18E70} = {AAE318F9-1E7D-40A8-8C46-C396848410E8}
+		{106D4E1F-8DEA-49FD-B4B6-D87BE9EA4E96} = {422D3DA1-F263-4E5D-AB31-CFECBB348520}
+		{07164340-E20D-4B48-A542-F91B28E8A96C} = {106D4E1F-8DEA-49FD-B4B6-D87BE9EA4E96}
+		{E53B0D4E-A955-4FB0-AB10-8C8E7D24BC63} = {422D3DA1-F263-4E5D-AB31-CFECBB348520}
+		{AAE318F9-1E7D-40A8-8C46-C396848410E8} = {422D3DA1-F263-4E5D-AB31-CFECBB348520}
+		{D10FEBA1-39FC-4F14-BB83-67D594162147} = {E53B0D4E-A955-4FB0-AB10-8C8E7D24BC63}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F2C36F17-E939-429E-81FE-52F4CA530FE6}
